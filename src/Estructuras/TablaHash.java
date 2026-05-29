@@ -1,4 +1,4 @@
-package estructuras;
+package src.estructuras;
 
 public class TablaHash<K, V> {
     private HashNode<K, V>[] tabla;
